@@ -11,8 +11,8 @@ The project aims to perform the following tasks:
 3. **Data Loading**: Load transformed data into Google BigQuery tables.
 4. **Orchestration**: Automate complete Data pipeline using Airflow ( Cloud Composer )
 
-![image](https://github.com/vishal-bulbule/etl-pipeline-datafusion-airflow/assets/143475073/755818fe-1cd3-4e1c-827d-35b963d6f414)
+![image](https://github.com/user-attachments/assets/4aee660f-966f-4f19-ad03-de34b3e0ae20)
 
 ## Architecture
 
-![image](https://github.com/vishal-bulbule/etl-pipeline-datafusion-airflow/assets/143475073/0ea51bdb-99cc-4abf-8ccc-8be721462fc3)
+![image](https://github.com/user-attachments/assets/2bad6b70-e397-4e1b-b266-7f9a19f4d9e3)
